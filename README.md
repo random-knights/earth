@@ -220,12 +220,12 @@ proposals, license questions, and layer requests.
 
 <!-- STANDARD:BEGIN -->
 
-| Name        | :chipmunk: |   Version    |             Description             |
-| ----------- | :--------: | :----------: | :---------------------------------: |
-| Earth+      |     🌎     | v1.0.0-draft |        Earth Health Scoring         |
-| AiEDs       |     ⚡     |    v2.2.0    |        AI Energy Disclosure         |
-| K13         |     👑     |    v2.0.0    |         AI Response Summary         |
-| AI for Good |     ❤️     |   &middot;   | (ITU) &middot; (UN) Recommendations |
+| Name        | :chipmunk: | Version  |             Description             |
+| ----------- | :--------: | :------: | :---------------------------------: |
+| Earth+      |     🌎     |  v1.2.0  |        Earth Health Scoring         |
+| AiEDs       |     ⚡     |  v2.3.0  |        AI Energy Disclosure         |
+| K13         |     👑     |  v2.0.0  |         AI Response Summary         |
+| AI for Good |     ❤️     | &middot; | (ITU) &middot; (UN) Recommendations |
 
 <!-- STANDARD:END -->
 
