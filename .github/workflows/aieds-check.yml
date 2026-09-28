@@ -24,5 +24,5 @@ jobs:
   aieds:
     uses: random-knights/.github/.github/workflows/aieds.yml@main
     with:
-      repo: xyz-earth
+      repo: earth
       readme: README.md
